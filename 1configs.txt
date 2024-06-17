@@ -1,5 +1,3 @@
-vless://c4b3473c-1f42-4640-f5be-dfb60c834c98@4tPitDOtzEqTjqeNP6oLRwxEEDlMcuBJZgnP6aBDWcnbSF6HG9bHQLeMEqgQKAC.eduxanr1vbdaqrkzgfui8fqlmtrhvv.shop:443?encryption=none&security=tls&sni=VXzwxMBktjGev0NHCKi.patelmortgage.com&fp=ios&type=ws&host=VXzwxMBktjGev0NHCKi.patelmortgage.com#IRVLESS3243-🇩🇪-DE1
-
 hysteria2://irvless3243:c4b3473c-1f42-4640-f5be-dfb60c834c98@[2a0f:5707:aaef:210::1]:27036?obfs=salamander&obfs-password=irvless&sni=70zqakkexwnukv6dgqiikdbfp0nnh3oogkfzywzaf2ql2wmmyg92dfvjzwauo46.sosfuvos.net&insecure=0#IRVLESS3243-🇩🇪-HYSTERIA1-DE
 hysteria2://irvless3243:c4b3473c-1f42-4640-f5be-dfb60c834c98@[2a0f:5707:aaef:315::1]:27036?obfs=salamander&obfs-password=irvless&sni=70zqakkexwnukv6dgqiikdbfp0nnh3oogkfzywzaf2ql2wmmyg92dfvjzwauo46.sosfuvos.net&insecure=0#IRVLESS3243-🇧🇬-HYSTERIA1-BG
 hysteria2://irvless3243:c4b3473c-1f42-4640-f5be-dfb60c834c98@149.12.245.123:27040?obfs=salamander&obfs-password=irvless&sni=70zqakkexwnukv6dgqiikdbfp0nnh3oogkfzywzaf2ql2wmmyg92dfvjzwauo46.sosfuvos.net&insecure=0#IRVLESS3243-🇳🇱-HYSTERIA1-NL
